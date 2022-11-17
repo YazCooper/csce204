@@ -1,0 +1,7 @@
+Almond Joy, 232, 14, 8.5, 2.5, 29, 67, 39.5, True
+Butterfinger, 216, 8.5, 4.5, 5.5, 29.5, 89, 12, True
+Kit Kat, 220.5, 12.5, 7.5, 3, 26.5, 43.5, 77.5, False
+M&M's, 236, 10, 6.5, 2, 34, 29.5, 50.5, False
+Reese's Peanut Butter Cups, 222, 14.5, 6.5, 5, 22, 130.5, 35, True
+Snickers, 273, 14, 5, 4.5, 34, 151.5, 53.5, True
+York Peppermint Pattie, 149, 4, na, 1.5, 33.5, 16.5, 7.5, False
